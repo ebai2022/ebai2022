@@ -1,5 +1,21 @@
-## Hi there 👋
+### Hi there! I'm Ethan
 
+## ✨ About Me
+I'm studying CS at UW Seattle 📖 (+ abroad at EPFL ✈️)
+
+From coding games in Scratch to building scalable systems at Amazon, I enjoy the never-ending novelties computer science brings! I'm interested in machine learning applications, particularly computer vision, and databases. Currently dreaming about building a badminton match analysis application🏸
+
+## 📋 Experience
+- SDE Intern @ Amazon
+- SWE Intern @ Centific
+- Databases Teaching Assistant @ UW
+
+## 🪄 Tech Stack
+[![Frontend](https://skillicons.dev/icons?i=js,ts,react,nodejs,nextjs,html,css)](https://skillicons.dev)
+
+[![Backend](https://skillicons.dev/icons?i=python,java,c,cpp,mysql,sqlite)](https://skillicons.dev)
+
+[![Other](https://skillicons.dev/icons?i=vscode,aws,azure,git,github,gitlab)](https://skillicons.dev)
 <!--
 **ebai2022/ebai2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
