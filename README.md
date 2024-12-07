@@ -3,12 +3,15 @@
 ## ✨ About Me
 I'm studying CS at UW Seattle 📖 (+ abroad at EPFL ✈️)
 
-From coding games in Scratch to building scalable systems at Amazon, I enjoy the never-ending novelties computer science brings! I'm interested in machine learning applications, particularly computer vision, and databases. Currently dreaming about building a badminton match analysis application🏸
+From coding games in Scratch to building scalable systems at Amazon, I enjoy the never-ending novelties computer science brings! I'm interested in machine learning applications, particularly computer vision, and databases. Currently dreaming about building a badminton match analysis application🏸👀
+
+Learn more about me [here](https://ebai2022.github.io/)!
 
 ## 📋 Experience
 - SDE Intern @ Amazon
 - SWE Intern @ Centific
 - Databases Teaching Assistant @ UW
+- Snack Overflow Director @UW COM<sup>2</sup>
 
 ## 🪄 Tech Stack
 [![Frontend](https://skillicons.dev/icons?i=js,ts,react,nodejs,nextjs,html,css)](https://skillicons.dev)
